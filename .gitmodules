@@ -1,0 +1,27 @@
+[submodule "Ampliacio"]
+	path = Ampliacio
+	url = https://github.com/joseMTB-D/Ampliacio.git
+[submodule "JoseMTB-D.github.io"]
+	path = JoseMTB-D.github.io
+	url = https://github.com/joseMTB-D/JoseMTB-D.github.io.git
+[submodule "examen_ToribioBravo"]
+	path = examen_ToribioBravo
+	url = https://github.com/joseMTB-D/examen_ToribioBravo.git
+[submodule "M6"]
+	path = M6
+	url = https://github.com/joseMTB-D/M6.git
+[submodule "PHP"]
+	path = PHP
+	url = https://github.com/joseMTB-D/PHP.git
+[submodule "Game_Jam"]
+	path = Game_Jam
+	url = https://github.com/joseMTB-D/Game_Jam.git
+[submodule "Juego_Game_Jam"]
+	path = Juego_Game_Jam
+	url = https://github.com/joseMTB-D/Juego_Game_Jam.git
+[submodule "examen_M5"]
+	path = examen_M5
+	url = https://github.com/joseMTB-D/examenM5.git
+[submodule "jmllubes.github.io"]
+	path = jmllubes.github.io
+	url = https://github.com/joseMTB-D/jmllubes.github.io.git
